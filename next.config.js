@@ -9,6 +9,7 @@ module.exports = {
       "cdn.scribbr.com",
       "image.shutterstock.com",
       "www.realmadrid.com",
+      "www.numereeks.com",
     ],
   },
 };
